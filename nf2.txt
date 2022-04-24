@@ -1,1 +1,2 @@
 newfile2
+Hi newfile2 welcome to notepad++.
